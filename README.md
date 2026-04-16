@@ -54,7 +54,7 @@ The **SPAI AI Line Art Generator** is a cutting-edge online platform that automa
 
 ### 🛠️ 四步完成专业创作 (How to Use)
 
-1.  **上传素材 (可选)**: 导入参考图，AI 将分析构图与光影。
+1.  **上传素材 (可选)**: 导入参考图，AI 将分析构图与光影
 2.  **线稿描述撰写**: 输入风格需求。*例如：“生成动漫风格人物线稿，线条流畅，发丝细节丰富。”*
 3.  **配置模型**:
     *   **Nano**: 擅长轻量化二次元风格。
