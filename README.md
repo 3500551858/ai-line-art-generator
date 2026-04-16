@@ -15,7 +15,7 @@
 
 ## 🇬🇧 English Introduction
 
-The **SPAI AI Line Art Generator** is a cutting-edge online platform that automates the process of creating professional line art. It utilizes advanced diffusion models to transform photos into clean outlines, sketches, and artistic drawings.
+The **SPAI AI Line Art Generator** is a cutting-edge online platform that automates the process of creating professional line art. It utilizes advanced diffusion models to transform photos into clean outlines, sketches, and artistic drawings
 
 ### Key Capabilities
 *   **✨ Photo to Line Art:** Convert portraits, landscapes, and products into high-resolution sketches.
