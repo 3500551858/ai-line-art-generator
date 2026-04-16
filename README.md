@@ -22,7 +22,7 @@ The **SPAI AI Line Art Generator** is a cutting-edge online platform that automa
 *   **🎭 Multi-Style Support:** Dedicated models for **Anime**, **Architecture**, **Industrial Design**, and **Botanical Art**
 *   **⚡ Rapid GPU Rendering:** Generates professional-grade sketches in 20-30 seconds
 *   **💰 100% Free & No Registration:** Accessible via any browser with unlimited usage for creators.
-*   **👑 Commercial Usage:** All generated line art comes with a full commercial license for your projects.
+*   **👑 Commercial Usage:** All generated line art comes with a full commercial license for your projects
 
 **[➡️ Try it for free on SPAI Line Art Assistant](https://www.sipingseo.com/zh/line-art-generator)**
 
