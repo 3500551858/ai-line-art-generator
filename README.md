@@ -35,7 +35,7 @@ The **SPAI AI Line Art Generator** is a cutting-edge online platform that automa
 我们的 AI 模型针对不同领域的线条特征进行了深度优化：
 
 #### 1. 动漫线稿生成 (Anime Style)
-线条流畅富有张力，粗细变化自然，完美呈现发丝、五官及服饰褶皱，是二次元上色练习的绝佳底稿
+线条流畅富有张力，粗细变化自然，完美呈现发丝、五官及服饰褶皱，是二次元上色练习的绝佳底稿 。
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | <img src="https://img.sipingseo.com/file/line-art-generator/geWTjU2m.webp" width="350"> | <img src="https://img.sipingseo.com/file/line-art-generator/kVxBEKJh.webp" width="350"> |
