@@ -41,7 +41,7 @@ The **SPAI AI Line Art Generator** is a cutting-edge online platform that automa
 | <img src="https://img.sipingseo.com/file/line-art-generator/geWTjU2m.webp" width="350"> | <img src="https://img.sipingseo.com/file/line-art-generator/kVxBEKJh.webp" width="350"> |
 
 #### 2. 建筑速写转换 (Architectural Sketch)
-精准提取透视结构，从古典园林到现代摩天大楼，生成符合设计规范的线条，助力方案表达
+精准提取透视结构，从古典园林到现代摩天大楼，生成符合设计规范的线条，助力方案表达 。
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | <img src="https://img.sipingseo.com/file/line-art-generator/ZaFxwlqz.webp" width="350"> | <img src="https://img.sipingseo.com/file/line-art-generator/9O7o95AQ.webp" width="350"> |
