@@ -19,8 +19,8 @@ The **SPAI AI Line Art Generator** is a cutting-edge online platform that automa
 
 ### Key Capabilities
 *   **✨ Photo to Line Art:** Convert portraits, landscapes, and products into high-resolution sketches 。
-*   **🎭 Multi-Style Support:** Dedicated models for **Anime**, **Architecture**, **Industrial Design**, and **Botanical Art**
-*   **⚡ Rapid GPU Rendering:** Generates professional-grade sketches in 20-30 seconds
+*   **🎭 Multi-Style Support:** Dedicated models for **Anime**, **Architecture**, **Industrial Design**, and **Botanical Art** 
+*   **⚡ Rapid GPU Rendering:** Generates professional-grade sketches in 20-30 seconds 。
 *   **💰 100% Free & No Registration:** Accessible via any browser with unlimited usage for creators.
 *   **👑 Commercial Usage:** All generated line art comes with a full commercial license for your projects
 
