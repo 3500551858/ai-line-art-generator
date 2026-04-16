@@ -47,7 +47,7 @@ The **SPAI AI Line Art Generator** is a cutting-edge online platform that automa
 | <img src="https://img.sipingseo.com/file/line-art-generator/ZaFxwlqz.webp" width="350"> | <img src="https://img.sipingseo.com/file/line-art-generator/9O7o95AQ.webp" width="350"> |
 
 #### 3. 产品轮廓与自然物 (Industrial & Nature)
-精准锁定产品边缘与生物结构（如花瓣脉络、羽毛纹理），适用于工业制图、专利附图及科学插画。
+精准锁定产品边缘与生物结构（如花瓣脉络、羽毛纹理），适用于工业制图、专利附图及科学插画
 | 产品线稿 | 卉植线稿 |
 | :---: | :---: |
 | <img src="https://img.sipingseo.com/file/line-art-generator/FMTjQ5BS.webp" width="350"> | <img src="https://img.sipingseo.com/file/line-art-generator/0d8zTMJ8.webp" width="350"> |
