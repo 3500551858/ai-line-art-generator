@@ -60,7 +60,7 @@ The **SPAI AI Line Art Generator** is a cutting-edge online platform that automa
     *   **Nano**: 擅长轻量化二次元风格
     *   **Flux**: 专攻写实轮廓与精细描边
     *   **Seedream**: 适合创意概念草图
-4.  **生成并下载**: 点击“生成线稿”，满意后即可免费下载高清原图
+4.  **生成并下载**: 点击“生成线稿”，满意后即可免费下载高清原图 。
 
 ### 💎 为什么选择 SPAI 线稿工具？
 
